@@ -2,6 +2,8 @@
 
 This project is a React-based application that displays products and product categories from an external API. Users can view all products, filter products by category, and load more products using a "See More" button.
 
+## Live: https://react-product-display-app.netlify.app/
+
 ## Features
 
 - Display all products from the API.
