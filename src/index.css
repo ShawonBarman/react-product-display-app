@@ -42,7 +42,7 @@
 
 }
 
-.products .row:hover .card:not(:hover) {
+.products .col-4:hover .card:not(:hover) {
 	opacity: 0.4;
 }
 
